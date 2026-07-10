@@ -1,0 +1,39 @@
+PRICING GUIDE — ABC Technologies
+
+SUBSCRIPTION PLANS:
+
+1. Starter Plan — $29/month
+   - Up to 5 users
+   - 10 GB cloud storage
+   - Basic reporting
+   - Email support (48-hour response)
+
+2. Professional Plan — $79/month
+   - Up to 25 users
+   - 100 GB cloud storage
+   - Advanced analytics & reporting
+   - Priority email + chat support (12-hour response)
+   - API access
+
+3. Enterprise Plan — $199/month
+   - Unlimited users
+   - 1 TB cloud storage
+   - Custom analytics & dashboards
+   - 24/7 dedicated support
+   - API access + custom integrations
+   - SLA guarantee (99.9% uptime)
+
+ANNUAL BILLING DISCOUNT:
+- Pay annually and save 20% on any plan.
+- Starter Annual: $278/year (save $70)
+- Professional Annual: $758/year (save $190)
+- Enterprise Annual: $1,910/year (save $478)
+
+FREE TRIAL:
+- 14-day free trial available on all plans.
+- No credit card required.
+
+ADD-ONS:
+- Extra Storage: $5/month per 50 GB
+- Additional Users (Starter): $5/user/month beyond 5
+- White-label branding: $49/month (Professional and above)

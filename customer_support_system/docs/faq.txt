@@ -1,0 +1,65 @@
+FREQUENTLY ASKED QUESTIONS (FAQ) - ABC Technologies
+
+ACCOUNT & ACCESS
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page, enter your email, and follow the reset link sent to your inbox. The link is valid for 24 hours.
+
+Q: How do I activate my account?
+A: After signing up, check your email for an activation link. Click it within 48 hours. If expired, request a new activation email from the login page.
+
+Q: How do I add or remove users from my account?
+A: Go to Admin > Users > Manage Users. You can invite new users via email or deactivate existing users.
+
+Q: Can I change my email address?
+A: Yes. Go to Settings > Profile > Change Email. You'll need to verify the new email address.
+
+Q: How do I enable two-factor authentication?
+A: Go to Settings > Security > Two-Factor Authentication and follow the setup steps.
+
+BILLING & PAYMENTS
+Q: When am I billed?
+A: Monthly plans are billed on the same date each month. Annual plans are billed once per year on the subscription anniversary date.
+
+Q: How do I update my payment method?
+A: Go to Billing > Payment Methods > Update Card.
+
+Q: Can I get an invoice for my payments?
+A: Yes. All invoices are available under Billing > Invoice History. You can download them as PDF.
+
+Q: What happens if my payment fails?
+A: We'll retry the payment after 3 days and again after 7 days. If payment still fails, your account will be temporarily suspended. Update your payment method to resume service.
+
+Q: How do I request a refund?
+A: Contact our Billing Support team. Refunds are available within 30 days of purchase (60 days for annual plans). Refunds above $100 require supervisor approval and take 5-7 business days.
+
+Q: Can I switch plans?
+A: Yes. You can upgrade or downgrade at any time. Upgrades take effect immediately; downgrades take effect at the next billing cycle.
+
+TECHNICAL
+Q: What file types can I upload?
+A: Supported types include PDF, DOCX, XLSX, PNG, JPG, CSV, and ZIP. File size limits depend on your plan.
+
+Q: Why does the application crash when uploading files?
+A: This is usually caused by a file that exceeds your plan's size limit or an unsupported format. Clear your browser cache, check the file format and size, and try again. Contact Technical Support if the problem persists.
+
+Q: Is there a mobile app available?
+A: Yes. Download the ABC Technologies app from the App Store (iOS) or Google Play Store (Android).
+
+Q: Does the platform support integrations?
+A: Yes. The Professional, Business, and Enterprise plans support integrations with over 50 apps including Slack, Salesforce, Google Workspace, Microsoft 365, and more.
+
+Q: What is the platform's uptime guarantee?
+A: Business plans have a 99.9% uptime SLA. Enterprise plans can negotiate up to 99.99% uptime SLA. Check current status at https://status.abctech.com.
+
+SALES & SUBSCRIPTIONS
+Q: Is there a free trial?
+A: Yes. We offer a 14-day free trial for Starter and Professional plans — no credit card required.
+
+Q: What's the difference between monthly and annual billing?
+A: Annual plans save you approximately 17% compared to monthly billing.
+
+Q: Do you offer discounts for non-profits or educational institutions?
+A: Yes. Non-profits receive 30% off, and educational institutions receive 50% off any plan.
+
+Q: What is your cancellation policy?
+A: You can cancel anytime. The cancellation takes effect at the end of your current billing period, and your data is retained for 30 days before deletion.

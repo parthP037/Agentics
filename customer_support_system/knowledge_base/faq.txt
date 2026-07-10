@@ -1,0 +1,31 @@
+FAQ DOCUMENT — ABC Technologies
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your registered email address and you will receive a password reset link within 5 minutes.
+
+Q: How do I upgrade my subscription plan?
+A: Log in to your account, go to Settings > Subscription, and click "Upgrade Plan". Changes take effect immediately and you will be billed the prorated difference.
+
+Q: Can I add more users to my plan?
+A: Yes. For the Starter plan, additional users are $5/user/month. Professional and Enterprise plans include expanded user limits. Go to Settings > Team > Invite Users.
+
+Q: How do I request an invoice?
+A: Invoices are automatically generated each billing cycle and available under Billing > Invoices. You can download them as PDF.
+
+Q: How long does a refund take?
+A: Refund requests are reviewed by our billing team and take 5–7 business days after approval to reflect on your original payment method.
+
+Q: How do I cancel my subscription?
+A: Go to Settings > Subscription > Cancel Subscription. Your access continues until the end of the billing period. Note: cancellations require supervisor approval and confirmation.
+
+Q: Is there a free trial?
+A: Yes, all plans include a 14-day free trial with no credit card required.
+
+Q: What file types can I upload?
+A: Supported formats are PDF, DOCX, XLSX, PNG, and JPG. Maximum file size is 50 MB.
+
+Q: How do I contact support?
+A: Starter plan: email support. Professional: email + chat. Enterprise: 24/7 dedicated support.
+
+Q: Where can I find my API key?
+A: Settings > Integrations > API Keys. You can generate or revoke API keys from there.

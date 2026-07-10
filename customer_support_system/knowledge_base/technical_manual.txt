@@ -1,0 +1,40 @@
+TECHNICAL MANUAL — ABC Technologies
+
+SYSTEM REQUIREMENTS:
+- OS: Windows 10+, macOS 12+, Ubuntu 20.04+
+- Browser: Chrome 100+, Firefox 100+, Edge 100+
+- RAM: Minimum 4 GB (8 GB recommended)
+- Internet: Stable broadband connection (10 Mbps+)
+
+INSTALLATION:
+1. Download the installer from your account dashboard.
+2. Run the installer as Administrator (Windows) or with sudo (Linux/macOS).
+3. Follow the on-screen setup wizard.
+4. Activate using your license key from the welcome email.
+
+LOGIN ISSUES:
+- Forgot Password: Click "Forgot Password" on the login page to receive a reset email.
+- Account Locked: After 5 failed attempts, wait 15 minutes or contact Account Support.
+- SSO Login: Configured by the admin under Settings > Authentication.
+
+FILE UPLOAD ISSUES / APPLICATION CRASHES:
+- Supported file formats: PDF, DOCX, XLSX, PNG, JPG (max 50 MB per file).
+- If the application crashes during upload:
+  1. Clear browser cache and cookies.
+  2. Disable browser extensions and retry.
+  3. Try a different supported browser.
+  4. Check file size does not exceed 50 MB.
+  5. Ensure file format is supported.
+  6. If problem persists, collect the error log (Settings > Logs) and contact Technical Support.
+
+CONFIGURATION ISSUES:
+- API keys are generated under Settings > Integrations > API Keys.
+- Webhook configuration: Settings > Integrations > Webhooks.
+- SSO/SAML configuration guide available in the Help Center.
+
+ERROR CODES:
+- ERR_500: Server-side error — contact Technical Support with the error log.
+- ERR_403: Permission denied — check your user role with your Admin.
+- ERR_404: Resource not found — verify the URL or resource ID.
+- ERR_UPLOAD_01: File too large — reduce file size below 50 MB.
+- ERR_UPLOAD_02: Unsupported format — use a supported file type.

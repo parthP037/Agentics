@@ -1,0 +1,71 @@
+TECHNICAL MANUAL - ABC Technologies Platform
+
+1. SYSTEM REQUIREMENTS
+   - Operating Systems: Windows 10+, macOS 10.14+, Ubuntu 18.04+
+   - Browser: Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+   - Internet Connection: Minimum 5 Mbps recommended
+   - RAM: Minimum 4 GB (8 GB recommended)
+
+2. INSTALLATION GUIDE
+   Desktop App:
+   a. Download the installer from https://app.abctech.com/download
+   b. Run the installer with administrator/sudo privileges
+   c. Follow the on-screen setup wizard
+   d. Log in with your ABC Technologies credentials
+   e. Complete the initial configuration
+
+   Mobile App:
+   - iOS: Download from the App Store (iOS 13+)
+   - Android: Download from Google Play Store (Android 8.0+)
+
+3. LOGIN & AUTHENTICATION
+   - Navigate to https://app.abctech.com
+   - Enter your registered email address and password
+   - Two-factor authentication (2FA) is recommended and can be enabled in Settings > Security
+   - If login fails: check Caps Lock, verify email address, reset password if necessary
+   - SSO (Single Sign-On) available for Business and Enterprise plans
+
+4. PASSWORD RESET PROCEDURE
+   a. Click "Forgot Password" on the login page
+   b. Enter your registered email address
+   c. Check your email for the reset link (valid for 24 hours)
+   d. Click the link and enter a new password (minimum 8 characters, must include uppercase, number, and special character)
+   e. Log in with the new password
+
+5. COMMON ERRORS & TROUBLESHOOTING
+
+   ERROR: "Application Crash on File Upload"
+   - Ensure file size does not exceed the plan limit (Starter: 50 MB, Pro: 200 MB, Business: 1 GB)
+   - Supported formats: PDF, DOCX, XLSX, PNG, JPG, CSV, ZIP
+   - Clear browser cache and cookies, then retry
+   - Disable browser extensions that may interfere with file upload
+   - Try uploading via the desktop app instead of the browser
+   - If issue persists, collect the error log (Settings > Logs > Export) and contact Technical Support
+
+   ERROR: "Cannot Connect to Server"
+   - Check your internet connection
+   - Verify the service status at https://status.abctech.com
+   - Flush DNS cache: run "ipconfig /flushdns" (Windows) or "sudo dscacheutil -flushcache" (Mac)
+   - Check firewall settings — allow outbound traffic on port 443
+
+   ERROR: "Login Loop / Redirect Issue"
+   - Clear browser cookies for abctech.com
+   - Disable VPN if active
+   - Try incognito/private browsing mode
+
+6. CONFIGURATION GUIDE
+   - Company Settings: Admin > Settings > Company Profile
+   - User Roles: Admin > Users > Manage Roles
+   - Integrations: Admin > Integrations > Connect Apps
+   - Email Notifications: Settings > Notifications > Email
+
+7. API DOCUMENTATION
+   - Base URL: https://api.abctech.com/v2
+   - Authentication: Bearer token (generated in Settings > API)
+   - Rate limits vary by plan (see Pricing Guide)
+   - Full API docs: https://developers.abctech.com
+
+8. DATA BACKUP & RECOVERY
+   - Automatic daily backups for all plans
+   - Manual backup: Admin > Settings > Backup > Export Data
+   - Data recovery requests must be submitted to support within 30 days of deletion
